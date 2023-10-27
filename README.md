@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm Iskandar Hakimi Bin Zulkippli!</h1>
-<h3 align="center">I'm a 2nd year software engineering student in Universiti Teknologi Malaysia (UTM).</h3>
-
-- 🔭 I’m currently working on **A**
-
-- 👯 I’m looking to collaborate on **B**
-
-- 🤝 I’m looking for help with **C**
+<h3 align="center">I'm a 2nd year software engineering student in Universiti Teknologi Malaysia (UTM) I am a highly motivated individual driven to learn new things and is ready to face any new challenges.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
