@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Iskandar Hakimi Bin Zulkippli!</h1>
 <h3 align="center">👋 Hey there! I'm a 3rd-year Software Engineering student at Universiti Teknologi Malaysia (UTM)</h3>
 
-<h4>💡 With a strong foundation in web development, solid knowledge in mobile applications and am excited to explore solutions drive to AI, I enjoy tackling complex problems and continuously expanding my skill set. I’m always up for a challenge! </h4>
+<p>💡 With a strong foundation in web development, solid knowledge in mobile applications and am excited to explore solutions drive to AI, I enjoy tackling complex problems and continuously expanding my skill set. I’m always up for a challenge! </p>
 
-<h4>🚀 Currently, I'm working on my Final Year Project 1, a Smart Auction Platform for UTM Students, UniBid. Aiming and is passionate about building scalable systems and crafting clean, efficient code.</h4>
+<p>🚀 Currently, I'm working on my Final Year Project 1, a Smart Auction Platform for UTM Students, UniBid. Aiming and is passionate about building scalable systems and crafting clean, efficient code.</p>
 
-<h4>🔍 Always open to learning, contributing to open-source, and exploring new technologies. Let’s connect and build something amazing! </h4>
+<p>🔍 Always open to learning, contributing to open-source, and exploring new technologies. Let’s connect and build something amazing! </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
